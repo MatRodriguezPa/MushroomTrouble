@@ -1,5 +1,5 @@
 
-package Controller;
+package com.azulgames.Controller;
 
 /**
  *
